@@ -1,6 +1,4 @@
-lib/
+*.pyc
 __pycache__/
-include/
-bin/
-**/*/*.bak
-**/*/*.tmp
+
+
