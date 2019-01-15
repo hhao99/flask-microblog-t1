@@ -46,7 +46,7 @@ change the code from
 '''
 make the directory templates in the current directory and add index.html into the templates:
 
-```
+'''
 <!DOCTYPE html>
 <html lang='en'>
 <body>
@@ -54,6 +54,6 @@ make the directory templates in the current directory and add index.html into th
 </body>
 </html>
 
-```
+'''
 
 OK Hello world with templates
