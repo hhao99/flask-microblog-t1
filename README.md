@@ -37,13 +37,13 @@ OK, flask applicaiton is ready for testing now
 
 modify the app.py
 add following:
-```
+'''
 from flask import render_template
 
 change the code from
 => return "Hello World" to
 ===> return render_template("index.html")
-```
+'''
 make the directory templates in the current directory and add index.html into the templates:
 
 ```
